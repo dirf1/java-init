@@ -16,10 +16,17 @@ public class ArrayTest3 {
 		  
 		   String[] strNums = new String[10];
 		   
-		   for(int i = 1; i<=10; i=i+1)
-		   System.out.println(i-1);
+		   for(int i = 0; i<=10; i=i++) {
+			   strs[i] = 10 - i +""; 
+			   }
+		   
+	}
+}
+	
+	//	   
+		   
 	
 		
-	}
+	
 
-}
+
