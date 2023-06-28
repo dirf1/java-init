@@ -20,7 +20,7 @@ public class Lotto2 {
 			Random r = new Random(); 
 			int[] random = new int[10];
 			
-			random[1] = r.nextInt(44)+1;
+			random[1] = r.nextInt(7)+1;
 			System.out.println(random[1]);
 		
 		
