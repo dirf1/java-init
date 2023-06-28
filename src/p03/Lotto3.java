@@ -8,13 +8,9 @@ public class Lotto3 {
 		
 		/*int[] lotto = new int[6]; << 만들어서
 		 *  랜덤이던 메쓰.랜덤이던 로또번호를 6개 만들어서 위에 넣으세요
-		 *  넣은 값에서 몇개가 맞았는지 출력하는 걸 만들기
-		 * 
-		 */
+		 *  넣은 값에서 몇개가 맞았는지 출력하는 걸 만들기*/
 		boolean correct = false; 
 		int i = 0;
-		
-		
 		int[] lotto = new int[6];
 //		Random r = new Random();
 //		int rNum = r.nextInt(45)+1 ;
@@ -31,7 +27,7 @@ public class Lotto3 {
 		
 		for(; i<strs.length;i++) {
 			for (int j=0; j<lotto.length; j++) {
-				//이쪽에다가 로직을
+				//이쪽에다가 로직을 넣으면 끝
 		
 			}
 			
