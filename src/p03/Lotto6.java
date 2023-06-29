@@ -45,8 +45,8 @@ public class Lotto6 {
             }
         }
 
-        System.out.println("번호 중에 "+rNum + "개 맞추셨습니다"); 
-        System.out.println("당첨 번호는 다음과 같습니다");
+        System.out.println("입력 숫자 중 "+rNum + "개 적중"); 
+        System.out.println("타겟 정보");
         for(i = 0; i<lotto.length; i++) {
             System.out.print(lotto[i] + " ");
         }

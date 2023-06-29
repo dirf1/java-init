@@ -91,7 +91,7 @@ public class Lotto7Practice {
                 	// 사용자 입력(유저인풋[i])이 로또 번호(j)와 일치하면 카운트 증가
                     
             		rNum++;
-//            		break;
+
                 }
             }
         }
