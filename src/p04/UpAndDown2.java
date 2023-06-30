@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-public class UpAndDown {
+public class UpAndDown2 {
 
 	public static int getRN() {
 		
