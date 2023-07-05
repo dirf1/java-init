@@ -21,4 +21,5 @@ public class ForLoop {
 			System.out.println( 100-i + "x"+ 1 + " = " + strs[i]);
 		}
 	}
+	
 }
