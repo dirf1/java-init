@@ -14,7 +14,7 @@ public class LottoList {
 		
 		Random r = new Random();
 		
-		System.out.println("1~6 개수 입력 후 출력");
+		System.out.println("숫자 입력 후 출력");
         Scanner scanner = new Scanner(System.in);
         String lottoStr = scanner.nextLine();
         String[] strs = lottoStr.split(",");

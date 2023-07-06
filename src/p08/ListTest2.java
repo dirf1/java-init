@@ -31,6 +31,7 @@ public class ListTest2 {
 		
 		
 		
+		
 		ArrayList<String> strsList = new ArrayList<String>();
 		
 		strsList.add(strs[0]);
